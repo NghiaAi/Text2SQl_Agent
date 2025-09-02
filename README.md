@@ -2,7 +2,7 @@
 
 Agent chuyển đổi truy vấn ngôn ngữ tự nhiên thành SQL, sử dụng:
 - **SQLite** làm cơ sở dữ liệu.
-- **phidata** để xây dựng agent.
+- **Phidata** để xây dựng agent.
 - **Groq API** để thực thi mô hình ngôn ngữ.
 
 Dự án có kèm ví dụ giao diện bằng Streamlit để nhập câu hỏi và nhận kết quả trực tiếp.
